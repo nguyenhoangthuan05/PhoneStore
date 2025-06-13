@@ -1,21 +1,25 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "D:\\WebNC_Huflit\\DoAn\\PhoneStore\\PhoneStoreSln\\",
+  "WorkspaceRootPath": "D:\\PhoneStore\\PhoneStoreSln\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{2FEBF616-C119-4DE9-8AFC-1E000DBB04CE}|PhoneStore\\PhoneStore.csproj|d:\\webnc_huflit\\doan\\phonestore\\phonestoresln\\phonestore\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "AbsoluteMoniker": "D:0:0:{2FEBF616-C119-4DE9-8AFC-1E000DBB04CE}|PhoneStore\\PhoneStore.csproj|d:\\phonestore\\phonestoresln\\phonestore\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2FEBF616-C119-4DE9-8AFC-1E000DBB04CE}|PhoneStore\\PhoneStore.csproj|solutionrelative:phonestore\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2FEBF616-C119-4DE9-8AFC-1E000DBB04CE}|PhoneStore\\PhoneStore.csproj|d:\\phonestore\\phonestoresln\\phonestore\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{2FEBF616-C119-4DE9-8AFC-1E000DBB04CE}|PhoneStore\\PhoneStore.csproj|solutionrelative:phonestore\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{2FEBF616-C119-4DE9-8AFC-1E000DBB04CE}|PhoneStore\\PhoneStore.csproj|d:\\webnc_huflit\\doan\\phonestore\\phonestoresln\\phonestore\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "AbsoluteMoniker": "D:0:0:{2FEBF616-C119-4DE9-8AFC-1E000DBB04CE}|PhoneStore\\PhoneStore.csproj|d:\\phonestore\\phonestoresln\\phonestore\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{2FEBF616-C119-4DE9-8AFC-1E000DBB04CE}|PhoneStore\\PhoneStore.csproj|solutionrelative:phonestore\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{2FEBF616-C119-4DE9-8AFC-1E000DBB04CE}|PhoneStore\\PhoneStore.csproj|d:\\webnc_huflit\\doan\\phonestore\\phonestoresln\\phonestore\\models\\phone.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{2FEBF616-C119-4DE9-8AFC-1E000DBB04CE}|PhoneStore\\PhoneStore.csproj|d:\\phonestore\\phonestoresln\\phonestore\\models\\phone.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{2FEBF616-C119-4DE9-8AFC-1E000DBB04CE}|PhoneStore\\PhoneStore.csproj|solutionrelative:phonestore\\models\\phone.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{2FEBF616-C119-4DE9-8AFC-1E000DBB04CE}|PhoneStore\\PhoneStore.csproj|d:\\webnc_huflit\\doan\\phonestore\\phonestoresln\\phonestore\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{2FEBF616-C119-4DE9-8AFC-1E000DBB04CE}|PhoneStore\\PhoneStore.csproj|d:\\phonestore\\phonestoresln\\phonestore\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{2FEBF616-C119-4DE9-8AFC-1E000DBB04CE}|PhoneStore\\PhoneStore.csproj|solutionrelative:phonestore\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
@@ -26,19 +30,28 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 1,
+          "SelectedChildIndex": 0,
           "Children": [
-            {
-              "$type": "Bookmark",
-              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
-            },
             {
               "$type": "Document",
               "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\PhoneStore\\PhoneStoreSln\\PhoneStore\\Program.cs",
+              "RelativeDocumentMoniker": "PhoneStore\\Program.cs",
+              "ToolTip": "D:\\PhoneStore\\PhoneStoreSln\\PhoneStore\\Program.cs",
+              "RelativeToolTip": "PhoneStore\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAACpAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-13T10:15:44.405Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
               "Title": "_Layout.cshtml",
-              "DocumentMoniker": "D:\\WebNC_Huflit\\DoAn\\PhoneStore\\PhoneStoreSln\\PhoneStore\\Views\\Shared\\_Layout.cshtml",
+              "DocumentMoniker": "D:\\PhoneStore\\PhoneStoreSln\\PhoneStore\\Views\\Shared\\_Layout.cshtml",
               "RelativeDocumentMoniker": "PhoneStore\\Views\\Shared\\_Layout.cshtml",
-              "ToolTip": "D:\\WebNC_Huflit\\DoAn\\PhoneStore\\PhoneStoreSln\\PhoneStore\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "D:\\PhoneStore\\PhoneStoreSln\\PhoneStore\\Views\\Shared\\_Layout.cshtml",
               "RelativeToolTip": "PhoneStore\\Views\\Shared\\_Layout.cshtml",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAHAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
@@ -47,42 +60,39 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 2,
               "Title": "Index.cshtml",
-              "DocumentMoniker": "D:\\WebNC_Huflit\\DoAn\\PhoneStore\\PhoneStoreSln\\PhoneStore\\Views\\Home\\Index.cshtml",
+              "DocumentMoniker": "D:\\PhoneStore\\PhoneStoreSln\\PhoneStore\\Views\\Home\\Index.cshtml",
               "RelativeDocumentMoniker": "PhoneStore\\Views\\Home\\Index.cshtml",
-              "ToolTip": "D:\\WebNC_Huflit\\DoAn\\PhoneStore\\PhoneStoreSln\\PhoneStore\\Views\\Home\\Index.cshtml",
+              "ToolTip": "D:\\PhoneStore\\PhoneStoreSln\\PhoneStore\\Views\\Home\\Index.cshtml",
               "RelativeToolTip": "PhoneStore\\Views\\Home\\Index.cshtml",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-06-08T09:10:48.232Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "Phone.cs",
-              "DocumentMoniker": "D:\\WebNC_Huflit\\DoAn\\PhoneStore\\PhoneStoreSln\\PhoneStore\\Models\\Phone.cs",
-              "RelativeDocumentMoniker": "PhoneStore\\Models\\Phone.cs",
-              "ToolTip": "D:\\WebNC_Huflit\\DoAn\\PhoneStore\\PhoneStoreSln\\PhoneStore\\Models\\Phone.cs",
-              "RelativeToolTip": "PhoneStore\\Models\\Phone.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-08T09:10:16.583Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-06-08T09:10:48.232Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 3,
+              "Title": "Phone.cs",
+              "DocumentMoniker": "D:\\PhoneStore\\PhoneStoreSln\\PhoneStore\\Models\\Phone.cs",
+              "RelativeDocumentMoniker": "PhoneStore\\Models\\Phone.cs",
+              "ToolTip": "D:\\PhoneStore\\PhoneStoreSln\\PhoneStore\\Models\\Phone.cs",
+              "RelativeToolTip": "PhoneStore\\Models\\Phone.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-08T09:10:16.583Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
               "Title": "HomeController.cs",
-              "DocumentMoniker": "D:\\WebNC_Huflit\\DoAn\\PhoneStore\\PhoneStoreSln\\PhoneStore\\Controllers\\HomeController.cs",
+              "DocumentMoniker": "D:\\PhoneStore\\PhoneStoreSln\\PhoneStore\\Controllers\\HomeController.cs",
               "RelativeDocumentMoniker": "PhoneStore\\Controllers\\HomeController.cs",
-              "ToolTip": "D:\\WebNC_Huflit\\DoAn\\PhoneStore\\PhoneStoreSln\\PhoneStore\\Controllers\\HomeController.cs",
+              "ToolTip": "D:\\PhoneStore\\PhoneStoreSln\\PhoneStore\\Controllers\\HomeController.cs",
               "RelativeToolTip": "PhoneStore\\Controllers\\HomeController.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAARAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-08T09:09:55.654Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-06-08T09:09:55.654Z"
             }
           ]
         }
